@@ -33,6 +33,6 @@ only valuable information to farmers, but also for policymakers working to strat
 impacts on food production? What common combinations of climate and artificial variables from our clustering and
 predictive models help notify shortages in advance, enabling for actions such as importing food, etc. in a timely manner?
 
-It is a group project with collaboration with teammates: Maya Garg, Jiaxuan Huang 
+It is a group project with teammates: Maya Garg, Jiaxuan Huang 
 
 
