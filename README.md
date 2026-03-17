@@ -22,3 +22,15 @@ regions across the globe. Through further visual and exploratory analysis, we ca
 different climate change variables and agricultural outcomes.
 By using machine learning model, we want to also effetively predict the change of crop production, which allows policy
 makers enact preventional stratagies.
+
+### Problem Statement & Goals
+By analyzing this dataset, we seek to answer:
+How are different crops and regions affected by various climatic factors – specifically, what shifts in climate or artificial
+factors such as fertilizer, pesticide use, etc. are likely to impact food security and farming practices across the globe in the
+future? How do we see this relationship differ not only from a global perspective, but also from country to country? What
+insightful interactions between climate or artificial variables and agricultural outcomes can we deduce to help provide not
+only valuable information to farmers, but also for policymakers working to strategize against climate change to mitigate
+impacts on food production? What common combinations of climate and artificial variables from our clustering and
+predictive models help notify shortages in advance, enabling for actions such as importing food, etc. in a timely manner?
+
+It is a group project with collaboration with teammates: Maya Garg, Jiaxuan Huang 
