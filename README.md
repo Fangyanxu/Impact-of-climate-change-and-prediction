@@ -34,3 +34,5 @@ impacts on food production? What common combinations of climate and artificial v
 predictive models help notify shortages in advance, enabling for actions such as importing food, etc. in a timely manner?
 
 It is a group project with collaboration with teammates: Maya Garg, Jiaxuan Huang 
+
+
